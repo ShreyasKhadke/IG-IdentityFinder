@@ -59,13 +59,15 @@ profile_data = extractor.get_instagram_data("johnsmith_ny", confidence_score=85,
 ## 🌟 Real-World Use Cases
 
 ### 📱 Marketing Campaign Builder
-**Input**: List of 500 fashion bloggers from influencer database 👗
-**Output**: Complete Instagram profiles with follower counts, engagement rates, and bio keywords
+- **Input**: List of 500 fashion bloggers from influencer database 👗
+- **Output**: Complete Instagram profiles with follower counts, engagement rates, and bio keywords
+
 **Value**: Build targeted campaigns with accurate reach estimates 🎯
 
 ### 💼 Sales Prospect Research  
-**Input**: Conference attendee list with names and companies 🏢
-**Output**: Social media presence analysis and engagement levels
+- **Input**: Conference attendee list with names and companies 🏢
+- **Output**: Social media presence analysis and engagement levels
+
 **Value**: Personalize outreach with social context and credibility assessment 📈
 
 ### 🎯 Recruitment Verification
