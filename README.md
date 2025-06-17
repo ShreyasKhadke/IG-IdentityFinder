@@ -160,10 +160,10 @@ Gemini AI evaluates multiple factors for accurate matching:
 
 Transform raw contact lists into actionable social media intelligence: 🚀
 
-**Influencer Marketing** 📱: Identify micro-influencers in specific niches with authentic engagement
-**Competitive Analysis** 🔍: Map competitor employee social presence and engagement strategies  
-**Event Marketing** 🎪: Analyze attendee social reach and influence for partnership opportunities
-**Customer Research** 📊: Understand customer social behavior and content preferences
+- **Influencer Marketing** 📱: Identify micro-influencers in specific niches with authentic engagement
+- **Competitive Analysis** 🔍: Map competitor employee social presence and engagement strategies  
+- **Event Marketing** 🎪: Analyze attendee social reach and influence for partnership opportunities
+- **Customer Research** 📊: Understand customer social behavior and content preferences
 
 ---
 
